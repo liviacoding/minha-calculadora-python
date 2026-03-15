@@ -8,8 +8,6 @@ Pratiquei: entrada de dados com input()
 conversão de tipos com float()
 Operações matemáticas simples
 saida de dados formatada com f-strings
-
-Estou evoluindo este código para incluir:
 Operações de subtração,multiplicação e divisão.
 Estruturas condicionais ( if/ else) para escolha da operação.
 Tratamento de erros (ex: evitar divisão por zero).

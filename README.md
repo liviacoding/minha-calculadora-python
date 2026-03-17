@@ -12,4 +12,9 @@ Operações de subtração,multiplicação e divisão.
 Estruturas condicionais ( if/ else) para escolha da operação.
 Tratamento de erros (ex: evitar divisão por zero).
 
+Evolução: Organização em Módulos
+A calculadora foi atualizada para uma estrutura modular
+função.py: Onde toda a Operação matemática fica guardada.
+App_calculadora.py: Onde o Programa roda e interage com o usuário.
+
 Desenvolvido Por Livia Soares
